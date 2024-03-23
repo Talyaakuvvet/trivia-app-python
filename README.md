@@ -1,6 +1,6 @@
 # Trivia Challenge
 
-![Trick and Cross Images](images/true.png)[Trick and Cross Images](images/false.png)
+![Trick and Cross Images](images/true.png,images/false.png)
 
 Trivia Challenge is a Python-based trivia game where you can test your knowledge in various categories. Questions are fetched from an external API in JSON format, and you can select the category you want to play with.
 
@@ -41,6 +41,4 @@ This app fetches trivia questions from the [Open Trivia Database API]([https://o
 
 Contributions are welcome! Feel free to open a pull request or create an issue if you find a bug or want to suggest an improvement.
 
-## License
 
-This project is available under the [MIT License](LICENSE). See the LICENSE file for more information.
